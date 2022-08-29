@@ -4,7 +4,7 @@
 
 ## Education
 
-- [ ] Computer Engineering (MSc, Expected Graduation year: 2021), Bursa Uludag University / Turkey
+- [ ] Computer Engineering (MSc, Expected Graduation year: 2022), Bursa Uludag University / Turkey
    - Graduation Thesis (underway): Deep Attention and Online Learning For Hybrid Article Recommendation System 
    
 - [X] Electrical and Computer Engineering (BSc, Graduation year: 2017), Jimma University / Ethiopia
