@@ -28,14 +28,14 @@ Computer Networks and Security
 ```
 
 ## Programming Languages
--  Javascript,C++,Java, C# and Python
+- Advanced level: Javascript, C# and Python
+- Intermediate level: C++ and Java
 
 ## Web Frameworks and Libraries
-- Reactjs
-- Nodejs
-- Django
-- ASP.NET Entity Framework, .NET CORE
-- Bootstrap ...
+- Angular, Reactjs, Bootstrap
+- FastAPi, Nodejs
+- ASP.NET CORE
+-  ...
 
 
 
