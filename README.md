@@ -3,7 +3,7 @@
 - Languages (Afan Oromo, English, Turkish, Arabic, Amharic)
 
 ## Education
-- [ ] Computer Engineering (MSc, Ongoing), Sakarya University / Turkey
+<! -- - [ ] Computer Engineering (MSc, Ongoing), Sakarya University / Turkey --> 
 - [ ] Computer Engineering (MSc, Dropped out), Bursa Uludag University / Turkey
    <!--- - Graduation Thesis (underway): Deep Attention and Online Learning For Hybrid Article Recommendation System  --->
    
