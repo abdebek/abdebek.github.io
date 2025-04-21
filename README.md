@@ -4,7 +4,7 @@
 
 ## Education
 <!-- - [ ] Computer Engineering (MSc, Ongoing), Sakarya University / Turkey --> 
-- [ ] Computer Engineering (MSc, Dropped out), Bursa Uludag University / Turkey
+- [ ] Computer Engineering (MSc, Courses only), Bursa Uludag University / Turkey
    <!--- - Graduation Thesis (underway): Deep Attention and Online Learning For Hybrid Article Recommendation System  --->
    
 - [X] Electrical and Computer Engineering (BSc, Graduation year: 2017), Jimma University / Ethiopia
